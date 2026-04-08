@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(to right, #74ebd5, #9face6);
+}
+
+.container {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  background: white;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.loader {
+  margin-top: 20px;
+}
